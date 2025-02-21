@@ -1,0 +1,14 @@
+d:\C#_Project\CSharpTraining\bin\Debug\net9.0\CSharpTraining.exe
+d:\C#_Project\CSharpTraining\bin\Debug\net9.0\CSharpTraining.deps.json
+d:\C#_Project\CSharpTraining\bin\Debug\net9.0\CSharpTraining.runtimeconfig.json
+d:\C#_Project\CSharpTraining\bin\Debug\net9.0\CSharpTraining.dll
+d:\C#_Project\CSharpTraining\bin\Debug\net9.0\CSharpTraining.pdb
+d:\C#_Project\CSharpTraining\obj\Debug\net9.0\CSharpTraining.GeneratedMSBuildEditorConfig.editorconfig
+d:\C#_Project\CSharpTraining\obj\Debug\net9.0\CSharpTraining.AssemblyInfoInputs.cache
+d:\C#_Project\CSharpTraining\obj\Debug\net9.0\CSharpTraining.AssemblyInfo.cs
+d:\C#_Project\CSharpTraining\obj\Debug\net9.0\CSharpTraining.csproj.CoreCompileInputs.cache
+d:\C#_Project\CSharpTraining\obj\Debug\net9.0\CSharpTraining.dll
+d:\C#_Project\CSharpTraining\obj\Debug\net9.0\refint\CSharpTraining.dll
+d:\C#_Project\CSharpTraining\obj\Debug\net9.0\CSharpTraining.pdb
+d:\C#_Project\CSharpTraining\obj\Debug\net9.0\CSharpTraining.genruntimeconfig.cache
+d:\C#_Project\CSharpTraining\obj\Debug\net9.0\ref\CSharpTraining.dll
