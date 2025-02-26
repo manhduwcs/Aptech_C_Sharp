@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#_Project\\CSharpTraining\\CSharpTraining.csproj",
+      "projectUniqueName": "D:\\CodingProjects\\C#_Project\\CSharpTraining\\CSharpTraining.csproj",
       "projectName": "CSharpTraining",
-      "projectPath": "D:\\C#_Project\\CSharpTraining\\CSharpTraining.csproj",
+      "projectPath": "D:\\CodingProjects\\C#_Project\\CSharpTraining\\CSharpTraining.csproj",
       "packagesPath": "C:\\Users\\messi\\.nuget\\packages\\",
-      "outputPath": "D:\\C#_Project\\CSharpTraining\\obj\\",
+      "outputPath": "D:\\CodingProjects\\C#_Project\\CSharpTraining\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\messi\\AppData\\Roaming\\NuGet\\NuGet.Config"
