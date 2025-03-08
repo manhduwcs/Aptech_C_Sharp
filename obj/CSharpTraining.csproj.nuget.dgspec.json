@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\CodingProjects\\C#_Project\\CSharpTraining\\CSharpTraining.csproj": {}
+    "D:\\CodingProjects\\C#_Project\\CSharpTraining\\CSharpTraining.csproj": {}
   },
   "projects": {
-    "d:\\CodingProjects\\C#_Project\\CSharpTraining\\CSharpTraining.csproj": {
+    "D:\\CodingProjects\\C#_Project\\CSharpTraining\\CSharpTraining.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CodingProjects\\C#_Project\\CSharpTraining\\CSharpTraining.csproj",
+        "projectUniqueName": "D:\\CodingProjects\\C#_Project\\CSharpTraining\\CSharpTraining.csproj",
         "projectName": "CSharpTraining",
-        "projectPath": "d:\\CodingProjects\\C#_Project\\CSharpTraining\\CSharpTraining.csproj",
+        "projectPath": "D:\\CodingProjects\\C#_Project\\CSharpTraining\\CSharpTraining.csproj",
         "packagesPath": "C:\\Users\\messi\\.nuget\\packages\\",
-        "outputPath": "d:\\CodingProjects\\C#_Project\\CSharpTraining\\obj\\",
+        "outputPath": "D:\\CodingProjects\\C#_Project\\CSharpTraining\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\messi\\AppData\\Roaming\\NuGet\\NuGet.Config"
